@@ -14,6 +14,8 @@ npm i
 # Usage
 Login to sql > source schema.sql. Then npm start to run server.
 
+Refer to gifs folder for visual demonstration
+
 # Questions
 If you have any questions or would like to contact me feel free to reach me at:
 - Email: nativeblanks@gmail.com
